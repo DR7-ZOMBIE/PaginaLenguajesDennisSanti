@@ -8,6 +8,7 @@
     display: flex;
     background-color: gainsboro;
     justify-content: space-between;
+    width: 180vw;
 }
 
 body{
@@ -46,6 +47,7 @@ img{
     display: flex;
     background-color: gainsboro;
     justify-content: center;
+    width: 180vw;
 }
 
 .h3Footer{
@@ -71,4 +73,10 @@ img{
 
 .li1{
     margin-bottom: 5px;
+}
+
+.botonDescargarArchivo{
+    position: relative;
+    height: 30px;
+    margin-left: 50px;
 }
